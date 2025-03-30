@@ -12,3 +12,7 @@ Orginal Source [Download](https://github.com/Ifera/ScoreHudX/tree/main/PurePerms
 Released 30th March 2025.
 Updated Plugin From 4.0.0 to 5.0.0
 > Update All Class and Namespace
+
+# Depends
+## ScoreHudX [Download](https://github.com/Ifera/ScoreHud)
+## PurePerms [Download](https://github.com/poggit-orphanage/PurePerms)
