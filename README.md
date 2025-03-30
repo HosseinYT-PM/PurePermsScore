@@ -5,4 +5,4 @@ Updated PM5
 > BasicScore has been removed since it is now integrated within ScoreHud in v7+.
 
 # Ifera
-|Orginal Source|[PurePermsScore](https://github.com/Ifera/ScoreHudX/tree/main/PurePermsScore)
+Orginal Source[PurePermsScore](https://github.com/Ifera/ScoreHudX/tree/main/PurePermsScore)
