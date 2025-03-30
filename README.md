@@ -14,5 +14,5 @@ Updated Plugin From 4.0.0 to 5.0.0
 > Update All Class and Namespace
 
 # Depends
-### ScoreHudX [Download](https://github.com/Ifera/ScoreHud)
-### PurePerms [Download](https://github.com/poggit-orphanage/PurePerms)
+- ScoreHudX [Download](https://github.com/Ifera/ScoreHud)
+- PurePerms [Download](https://github.com/poggit-orphanage/PurePerms)
