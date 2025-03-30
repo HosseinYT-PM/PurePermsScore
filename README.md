@@ -7,3 +7,9 @@ Updated PM5
 # Ifera
 Orginal Source [Download](https://github.com/Ifera/ScoreHudX/tree/main/PurePermsScore)
 > This plugin was written by [Iferra](https://github.com/Ifera) and this plugin has just been updated.
+
+# 3.0.0
+Released 30th March 2025.
+Namespace
+> Update Namespaces
+> Update Class
