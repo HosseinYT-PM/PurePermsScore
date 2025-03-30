@@ -1,7 +1,7 @@
 # PurePermsScore
 A repository containing plugins implementing tags for ScoreHud.
 - Updated to PM5 (PocketMine API 5.0.0)
-- Download Last Update [Download PM5](https://github.com/HosseinYT-PM/PurePermsScore-PM5/releases/)
+- Download Last Update [RELEASES](https://github.com/HosseinYT-PM/PurePermsScore-PM5/releases/)
 
 > BasicScore has been removed since it is now integrated within ScoreHud in v7+.
 
